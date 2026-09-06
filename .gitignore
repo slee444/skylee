@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+# Claude Code project workspace (local only)
+CLAUDE.md
+design.md
+skills/
+input/
+output/
+agents/
+memory/
+site/
